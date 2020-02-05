@@ -1,4 +1,4 @@
 .main-logo {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: rgb(255, 255, 255)
+    color: var(--color-second)
 }
