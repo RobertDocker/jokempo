@@ -1,0 +1,8 @@
+.primary-button{
+    border-radius: 4px;
+    color: var(--color-primary);
+    background-color: var(--color-second);
+    text-decoration: none;
+    font-family: 'Comfortaa', sans-serif;
+    padding: 3px 12px;
+}
